@@ -1,3 +1,8 @@
 worcs_version: 0.1.5
 creator: sande
 entry_point: manuscript/manuscript.Rmd
+checksums:
+  dat.csv: aacdb2e817c50d038a48b36141137e2c
+data:
+  dat.csv:
+    codebook: codebook_dat.Rmd
